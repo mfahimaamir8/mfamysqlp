@@ -245,7 +245,6 @@ PyMySQL==1.1.1
 pyodbc==5.2.0
 pyparsing==3.2.0
 pyperclip==1.9.0
-pypiwin32==223
 pyppeteer==2.0.0
 pyreadline3==3.5.4
 pytest==8.3.4
